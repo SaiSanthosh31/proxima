@@ -1,7 +1,10 @@
 # proxima
 A simple, ultra-fast software backlight controller for Windows.
 
-Proxima places a transparent, click-through overlay across all monitors to dim the screen at the software level without altering hardware monitor settings or interfering with mouse clicks and gaming.
+You can't find the exe file in the repo, cuz github said "Yowzaa that's a big file, try uploading a file less then 25mb"
+Use PyInstaller to compile the app.py into an exe, :wink:
+
+Proxima places a+ transparent, click-through overlay across all monitors to dim the screen at the software level without altering hardware monitor settings or interfering with mouse clicks and gaming.
 
 ### How to use:
 Just run `proxima.exe`. It runs silently in the background, places an icon in your system tray, and adds itself to your startup apps automatically.
